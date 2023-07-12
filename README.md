@@ -32,3 +32,9 @@
 <a href="https://github.com/Francisca105/teste-pratico-iaed">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=teste-pratico-iaed" />
 </a>
+
+**IAC** *(Introdução à Arquitetura de Computadores)*
+
+<a href="https://github.com/Francisca105/Projeto-iac-grupo-3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=Projeto-iac-grupo-3" />
+</a>
