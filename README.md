@@ -4,12 +4,12 @@
 
 **FP** *(Fundamentos da programação)*
 
-<a href="https://github.com/Francisca105/fp-projeto-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=fp-projeto-1" />
+<a href="https://github.com/Francisca105/projeto-fp-1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-fp-1" />
 </a>
 
-<a href="https://github.com/Francisca105/fp-projeto-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=fp-projeto-2" />
+<a href="https://github.com/Francisca105/projeto-fp-2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-fp-2" />
 </a>
 
 
@@ -37,4 +37,10 @@
 
 <a href="https://github.com/Francisca105/Projeto-iac-grupo-3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=Projeto-iac-grupo-3" />
+</a>
+
+**PO** *(Programação com objetos*)
+
+<a href="https://github.com/Francisca105/projeto-po">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-po" />
 </a>
