@@ -13,7 +13,7 @@
 </a>
 
 
-**LP** *(Lógica para programação*)
+**LP** *(Lógica para programação)*
 
 <a href="https://github.com/Francisca105/projeto-lp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-lp" />
@@ -35,12 +35,36 @@
 
 **IAC** *(Introdução à Arquitetura de Computadores)*
 
-<a href="https://github.com/Francisca105/Projeto-iac-grupo-3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=Projeto-iac-grupo-3" />
+<a href="https://github.com/Francisca105/projeto-iac">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-iac" />
 </a>
 
-**PO** *(Programação com objetos*)
+**PO** *(Programação com objetos)*
 
 <a href="https://github.com/Francisca105/projeto-po">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-po" />
+</a>
+
+**SO** *(Sistemas Operativos)*
+
+<a href="https://github.com/Francisca105/projeto-so-1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-so-1" />
+</a>
+
+<a href="https://github.com/Francisca105/projeto-so-2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-so-2" />
+</a>
+
+**ASA** *(Análise e Síntese de Algoritmos)*
+
+<a href="https://github.com/Francisca105/projeto-asa-1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-asa-1" />
+</a>
+
+<a href="https://github.com/Francisca105/projeto-asa-2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-asa-2" />
+</a>
+
+<a href="https://github.com/Francisca105/projeto-asa-3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-asa-3" />
 </a>
