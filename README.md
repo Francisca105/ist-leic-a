@@ -74,3 +74,15 @@
 <a href="https://github.com/Francisca105/projeto-ipm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-ipm" />
 </a>
+
+**BD** *(Base de Dados)*
+
+<a href="https://github.com/Francisca105/projeto-bd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-bd" />
+</a>
+
+**IA** *(Inteligência Artificial)*
+
+<a href="https://github.com/Francisca105/projeto-ia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-ia" />
+</a>
