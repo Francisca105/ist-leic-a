@@ -86,3 +86,27 @@
 <a href="https://github.com/Francisca105/projeto-ia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-ia" />
 </a>
+
+**OC** *(Organização de Computadores)*
+
+<a href="https://github.com/Francisca105/labs-oc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=labs-oc" />
+</a>
+
+**Apre** *(Aprendizagem)*
+
+<a href="https://github.com/Francisca105/wh-apre">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=wh-apre" />
+</a>
+
+**AMS** *(Análise e Modelação de Sistemas)*
+
+<a href="https://github.com/Francisca105/projeto-ams">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-ams" />
+</a>
+
+**RC** *(Redes de Computadores)*
+
+<a href="https://github.com/Francisca105/projeto-rc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-rc" />
+</a>
