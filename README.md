@@ -1,8 +1,11 @@
-# Técnico - LEICA
+# Instituto Técnico Técnico - LEIC-A
 
 ## Projetos
 
-**FP** *(Fundamentos da programação)*
+<details>
+<summary>1º Ano</summary>
+<br>
+<b>FP</b> <i>(Fundamentos da programação)</i> <br>
 
 <a href="https://github.com/Francisca105/projeto-fp-1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-fp-1" />
@@ -12,14 +15,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-fp-2" />
 </a>
 
-
-**LP** *(Lógica para programação)*
+<b>LP</b> <i>(Lógica para programação)</i>
 
 <a href="https://github.com/Francisca105/projeto-lp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-lp" />
 </a>
 
-**IAED** *(Introdução aos Algoritmos e Estruturas de Dados)*
+<b>IAED</b> <i>(Introdução aos Algoritmos e Estruturas de Dados)</i>
 
 <a href="https://github.com/Francisca105/projeto-iaed-1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-iaed-1" />
@@ -33,19 +35,24 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=teste-pratico-iaed" />
 </a>
 
-**IAC** *(Introdução à Arquitetura de Computadores)*
+<b>IAC</b> <i>(Introdução à Arquitetura de Computadores)</i>
 
 <a href="https://github.com/Francisca105/projeto-iac">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-iac" />
 </a>
+</details>
 
-**PO** *(Programação com objetos)*
+<details>
+<summary>2º Ano</summary>
+<br>
+
+<b>PO</b> <i>(Programação com objetos)</i>
 
 <a href="https://github.com/Francisca105/projeto-po">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-po" />
 </a>
 
-**SO** *(Sistemas Operativos)*
+<b>SO</b> <i>(Sistemas Operativos)</i>
 
 <a href="https://github.com/Francisca105/projeto-so-1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-so-1" />
@@ -55,7 +62,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-so-2" />
 </a>
 
-**ASA** *(Análise e Síntese de Algoritmos)*
+<b>ASA</b> <i>(Análise e Síntese de Algoritmos)</i>
 
 <a href="https://github.com/Francisca105/projeto-asa-1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-asa-1" />
@@ -69,56 +76,62 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-asa-3" />
 </a>
 
-**IPM** *(Interação Pessoa-Máquina)*
+<b>IPM</b> <i>(Interação Pessoa-Máquina)</i>
 
 <a href="https://github.com/Francisca105/projeto-ipm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-ipm" />
 </a>
 
-**BD** *(Base de Dados)*
+<b>BD</b> <i>(Base de Dados)</i>
 
 <a href="https://github.com/Francisca105/projeto-bd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-bd" />
 </a>
 
-**IA** *(Inteligência Artificial)*
+<b>IA</b> <i>(Inteligência Artificial)</i>
 
 <a href="https://github.com/Francisca105/projeto-ia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-ia" />
 </a>
+</details>
 
-**OC** *(Organização de Computadores)*
+<details>
+<summary>3º Ano</summary>
+<br>
+  
+<b>OC</b> <i>(Organização de Computadores)</i>
 
 <a href="https://github.com/Francisca105/labs-oc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=labs-oc" />
 </a>
 
-**Apre** *(Aprendizagem)*
+<b>Apre</b> <i>(Aprendizagem)</i>
 
 <a href="https://github.com/Francisca105/wh-apre">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=wh-apre" />
 </a>
 
-**AMS** *(Análise e Modelação de Sistemas)*
+<b>AMS</b> <i>(Análise e Modelação de Sistemas)</i>
 
 <a href="https://github.com/Francisca105/projeto-ams">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-ams" />
 </a>
 
-**RC** *(Redes de Computadores)*
+<b>RC</b> <i>(Redes de Computadores)</i>
 
 <a href="https://github.com/Francisca105/projeto-rc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-rc" />
 </a>
 
-**ES** *(Engenharia de Software)*
+<b>ES</b> <i>(Engenharia de Software)</i>
 
 <a href="https://github.com/Francisca105/projeto-es">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-es" />
 </a>
 
-**SD** *(Sistemas Distribuídos)*
+<b>SD</b> <i>(Sistemas Distribuídos)</i>
 
 <a href="https://github.com/Francisca105/projeto-sd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-sd" />
 </a>
+</details>
