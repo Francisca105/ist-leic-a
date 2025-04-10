@@ -110,3 +110,15 @@
 <a href="https://github.com/Francisca105/projeto-rc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-rc" />
 </a>
+
+**ES** *(Engenharia de Software)*
+
+<a href="https://github.com/Francisca105/projeto-es">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-es" />
+</a>
+
+**SD** *(Sistemas Distribuídos)*
+
+<a href="https://github.com/Francisca105/projeto-sd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-sd" />
+</a>
