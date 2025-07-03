@@ -134,4 +134,16 @@
 <a href="https://github.com/Francisca105/projeto-sd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-sd" />
 </a>
+
+<b>CO</b> <i>(Compiladores)</i>
+
+<a href="https://github.com/Francisca105/projeto-co">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-co" />
+</a>
+
+<b>CG</b> <i>(Computação Gráfica)</i>
+
+<a href="https://github.com/Francisca105/projeto-cg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francisca105&theme=midnight-purple&hide_border=true&repo=projeto-cg" />
+</a>
 </details>
